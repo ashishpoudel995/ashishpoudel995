@@ -18,7 +18,6 @@
   </p>
 </p>
 <br><br>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ashishpoudel995&show_icons=true&theme=radical&count_private=true">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpoudel995&langs_count=8&theme=radical&layout=compact">
 </p>
