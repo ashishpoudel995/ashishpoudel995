@@ -1,8 +1,9 @@
 ## Hi there 👋, I'm Ashish Poudel. 
 <p align="center">
   <a href="https://ashishpoudel995.github.io" target="_blank"><img width="180px" src="https://img.shields.io/badge/-Visit My Website-FF7139?style=flat-square&logo=Firefox%20Browser&logoColor=white"></a>
-  <a href="#"><img width="160px" src="https://komarev.com/ghpvc/?username=ashishpoudel995&color=blueviolet&style=flat-square"/></a>
-</p>
+  <a href="#"><img width="160px" src="https://komarev.com/ghpvc/?username=ashishpoudel995&color=blueviolet&style=flat-square"/></a><br/>
+    <a href="#"><img src="https://wakatime.com/badge/user/99b06546-a92b-41f1-81c9-86bdf208363f.svg" alt="Total time coded" /></a>
+  </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/53949374/123767082-f20dcb00-d8e6-11eb-8148-de298bc17299.png"><br>
   <p align="center">
